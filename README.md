@@ -1,16 +1,22 @@
-# kauwa
+# Kauwa Udd - Flutter Frontend 🐦
 
-A new Flutter project.
+## Project Overview
+Kauwa Udd is a Flutter-based frontend application built for an interactive game experience.
+The project focuses on clean architecture, scalability, and cross-platform support.
 
-## Getting Started
+## Features
+- Cross-platform Flutter app (Android, iOS, Web)
+- Modular and clean project structure
+- API-based game logic
+- Responsive and user-friendly UI
 
-This project is a starting point for a Flutter application.
+## Prerequisites
+Before running the project, ensure you have:
+- Flutter SDK (>= 3.x)
+- Dart SDK
+- Android Studio or VS Code
+- Emulator or physical device
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Verify Flutter setup:
+```bash
+flutter doctor
